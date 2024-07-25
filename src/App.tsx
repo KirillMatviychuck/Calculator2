@@ -4,9 +4,7 @@ import CalculatorCore from './components/CalculatorCore/CalculatorCore'
 
 
 function App() {
-
-
-
+  // calculator
   return (
     <div className='flex justify-center items-center h-screen w-full bg-[rgb(59,70,100)] font-sans'>
       <Routes>
